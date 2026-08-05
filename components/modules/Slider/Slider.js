@@ -79,6 +79,10 @@ export default function Slider() {
           <span className="text-amber-700">Here</span>
           </div>
         </div>
+
+              <div className="w-full absolute -bottom-1 z-10">
+        <img className="w-full h-full" src="/images/overlay-top.png" />
+      </div>
       </div>
     </>
   );

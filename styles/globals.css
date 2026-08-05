@@ -1,1 +1,14 @@
 @import "tailwindcss";
+body{
+    background-color: #fde9d0 !important;
+}
+.servic-bg{
+    background-image: url('/images/services-background.jpg');
+    
+}
+.containercolor{
+    background-color: #fffbf2;
+}
+.Footer-bg{
+    background-image: url('/images/Footer-bg.jpg');
+}
