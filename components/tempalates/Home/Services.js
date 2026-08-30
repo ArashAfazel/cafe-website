@@ -5,11 +5,10 @@ export default function Services() {
         <span className="bg-amber-500 w-0.5 h-15 md:h-25"></span>
       </div>
       <div className="flex justify-center">
-        <span className="text-[15px] md:text-[30px] text-amber-500">
+        <span className="text-[30px]  text-amber-500">
           Why choose us
         </span>
       </div>
-
       <div className="relative mt-7 w-full max-sm:h-130 md:h-230 lg:h-115">
         <div className=" w-full h-full servic-bg  sm:bg-contain absolute opacity-60 "></div>
         <div className="absolute z-10 w-full ">
@@ -71,7 +70,11 @@ export default function Services() {
                 />
                 <div className="px-2">
                   <span className="font-bold">Online Table Booking</span>
-                  <p className="max-sm:hidden">Reserve your table easily and conveniently from anywhere, anytime. Choose your preferred date and time, and we'll have your table ready for you.</p>
+                  <p className="max-sm:hidden">
+                    Reserve your table easily and conveniently from anywhere,
+                    anytime. Choose your preferred date and time, and we'll have
+                    your table ready for you.
+                  </p>
                 </div>
               </div>
             </div>

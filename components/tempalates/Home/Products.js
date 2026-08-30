@@ -1,13 +1,11 @@
 import ProductCard from "../../modules/ProductsCard/ProductsCard";
 import { Swiper, SwiperSlide } from "swiper/react";
-
 import "swiper/css";
 import "swiper/css/free-mode";
 import "swiper/css/pagination";
-
 import { Navigation } from "swiper/modules";
+
 export default function Products({ data }) {
-  console.log(data)
   return (
     <>
       <div className="w-full md:my-10">
@@ -15,7 +13,7 @@ export default function Products({ data }) {
           <span className="bg-amber-500 w-0.5 h-15 md:h-25"></span>
         </div>
         <div className="flex justify-center">
-          <span className="text-[15px] md:text-[30px] text-amber-500">
+          <span className="text-[30px]  text-amber-500">
             Our Products
           </span>
         </div>

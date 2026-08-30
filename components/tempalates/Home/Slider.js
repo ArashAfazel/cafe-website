@@ -71,18 +71,15 @@ export default function Slider() {
           <div className="absolute inset-0 text-white z-2 bg-black/60"></div>
         </div>
         <div
-          className={` absolute top-[40%] left-[15%] text-white text-4xl md:text-7xl z-3 flex flex-col ${playfair.className}`}
+          className={` absolute top-[40%] left-[15%] text-white text-[45px] md:text-7xl z-3 flex flex-col ${playfair.className}`}
         >
           <span>Sweet Moments</span>
           <div>
-          <span>Start </span>
-          <span className="text-amber-700">Here</span>
+            <span>Start </span>
+            <span className="text-amber-700">Here</span>
           </div>
         </div>
 
-              <div className="w-full absolute -bottom-1 z-10">
-        <img className="w-full h-full" src="/images/overlay-top.png" />
-      </div>
       </div>
     </>
   );
