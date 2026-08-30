@@ -1,0 +1,220 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Cappuccino",
+      "price": 3.5,
+      "category": "hot-coffee",
+      "img": "/images/menu/cappuccino.jpg",
+      "des": ""
+    },
+    {
+      "id": 2,
+      "title": "Espresso",
+      "price": 2,
+      "category": "hot-coffee",
+      "img": "/images/menu/Espresso.jpg",
+      "des": ""
+    },
+    {
+      "id": 3,
+      "title": "Latte",
+      "price": 3.5,
+      "category": "hot-coffee",
+      "img": "/images/menu/Latte.jpg",
+      "des": ""
+    },
+    {
+      "id": 4,
+      "title": "Americano",
+      "price": 3.5,
+      "category": "hot-coffee",
+      "img": "/images/menu/Americano.jpg",
+      "des": ""
+    },
+    {
+      "id": 5,
+      "title": "Hot Chocolate",
+      "price": 3.5,
+      "category": "hot-coffee",
+      "img": "/images/menu/Americano.jpg",
+      "des": ""
+    },
+    {
+      "id": 6,
+      "title": "Turkish Coffee",
+      "price": 3.5,
+      "category": "hot-coffee",
+      "img": "/images/menu/Turkish.jpg",
+      "des": ""
+    } ,   {
+      "id": 7,
+      "title": "ICED TEA",
+      "price": 3.5,
+      "category": "cold-drinks",
+      "img": "/images/menu/iced-tea.jpg",
+      "des": ""
+    },   {
+      "id": 8,
+      "title": "MOJITO",
+      "price": 3.5,
+      "category": "cold-drinks",
+      "img": "/images/menu/mojito.jpg",
+      "des": ""
+    },   {
+      "id": 9,
+      "title": "ICED MOCHA",
+      "price": 3.5,
+      "category": "cold-drinks",
+      "img": "/images/menu/iced-mocha.jpg",
+      "des": ""
+    },   {
+      "id": 10,
+      "title": "MANGO SMOOTHIE",
+      "price": 3.5,
+      "category": "cold-drinks",
+      "img": "/images/menu/mango-smoothie.jpg",
+      "des": ""
+    },   {
+      "id": 11,
+      "title": "ORANGE JUICE",
+      "price": 3.5,
+      "category": "cold-drinks",
+      "img": "/images/menu/orangejuice.jpg",
+      "des": ""
+    },   {
+      "id": 12,
+      "title": "ICED AMERICANO",
+      "price": 3.5,
+      "category": "cold-drinks",
+      "img": "/images/menu/iced-americano.jpg",
+      "des": ""
+    },   {
+      "id": 13,
+      "title": "CHOCOLATE CAKE",
+      "price": 3.5,
+      "category": "cakes&desserts",
+      "img": "/images/menu/chocolate-cake.jpg",
+      "des": ""
+    },   {
+      "id": 14,
+      "title": "CHEESECAKE",
+      "price": 3.5,
+      "category": "cakes&desserts",
+      "img": "/images/menu/cheesecake.jpg",
+      "des": ""
+    },   {
+      "id": 15,
+      "title": "CARROT CAKE",
+      "price": 3.5,
+      "category": "cakes&desserts",
+      "img": "/images/menu/carrot-cake.jpg",
+      "des": ""
+    },   {
+      "id": 16,
+      "title": "LOTUS CHEESECAKE",
+      "price": 3.5,
+      "category": "cakes&desserts",
+      "img": "/images/menu/lotus-cheesecake.jpg",
+      "des": ""
+    },   {
+      "id": 17,
+      "title": "CHOCOLATE SHAKE",
+      "price": 3.5,
+      "category": "shakes",
+      "img": "/images/menu/chocolate-shake.jpg",
+      "des": ""
+    },   {
+      "id": 18,
+      "title": "NUTELLA SHAKE",
+      "price": 3.5,
+      "category": "shakes",
+      "img": "/images/menu/nutella-shake.jpg",
+      "des": ""
+    },   {
+      "id": 19,
+      "title": "LOTUS SHAKE",
+      "price": 3.5,
+      "category": "shakes",
+      "img": "/images/menu/lotus-shake.jpg",
+      "des": ""
+    },   {
+      "id": 20,
+      "title": "STRAWBERRY SHAKE",
+      "price": 3.5,
+      "category": "shakes",
+      "img": "/images/menu/strawberry-shake.jpg",
+      "des": ""
+    },   {
+      "id": 21,
+      "title": "MANGO SHAKE",
+      "price": 3.5,
+      "category": "shakes",
+      "img": "/images/menu/mango-shake.jpg",
+      "des": ""
+    },   {
+      "id": 22,
+      "title": "PEPPORONI PIZZA",
+      "price": 3.5,
+      "category": "food",
+      "img": "/images/menu/pepperoni-pizza.jpg",
+      "des": ""
+    },   {
+      "id": 23,
+      "title": "CHEESEBURGER",
+      "price": 3.5,
+      "category": "food",
+      "img": "/images/menu/cheeseburger.jpg",
+      "des": ""
+    },   {
+      "id": 24,
+      "title": "PASTA ALFERDO",
+      "price": 3.5,
+      "category": "food",
+      "img": "/images/menu/pasta-alfredo.jpg",
+      "des": ""
+    },   {
+      "id": 25,
+      "title": "CAESAR SALAD",
+      "price": 3.5,
+      "category": "food",
+      "img": "/images/menu/caesar-salad.jpg",
+      "des": ""
+    }
+  ],
+  "products":[
+    {
+      "id":1,
+      "title":"Espresso Blend",
+      "price":10.80,
+      "img":"/images/products/product1.jpg"
+
+    },
+        {
+      "id":2,
+      "title":"Arabica Coffee",
+      "price":16.50,
+      "img":"/images/products/product1.jpg"
+
+    },
+        {
+      "id":3,
+      "title":"Robusta Coffee",
+      "price":10.00,
+      "img":"/images/products/product1.jpg"
+
+    },
+     {
+      "id":4,
+      "title":"Filter Coffee",
+      "price":9.00,
+      "img":"/images/products/product1.jpg"
+
+    }, {
+      "id":5,
+      "title":"Turkish Coffee",
+      "price":10.00,
+      "img":"/images/products/product1.jpg"
+    }
+  ]
+}
