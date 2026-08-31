@@ -1,40 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# ☕ Cafe Website
 
-## Getting Started
+A modern and responsive cafe website built with **Next.js**, **React**, and **Tailwind CSS**.
 
-First, run the development server:
+The project includes a cafe menu, product selection, and an online table reservation system .
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📸 Preview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p align="center">
+  <img src="./public/images/Preview-Macbook.png" width="70%" />
+  <img src="./public/images/Preview-Mobile.png" width="20%" />
+</p>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## ✨ Features
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- 📱 Fully responsive design
+- 🏠 Modern cafe landing page
+- ☕ Cafe menu and product sections
+- ➕ Product quantity selection
+- 📅 Online table reservation
+- 🕐 Date and time selection
+- 👥 Number of guests selection
+- 📱 Responsive mobile navigation
+- 🧩 Reusable React components
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+## 🛠️ Technologies
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Next.js**
+- **React**
+- **JavaScript**
+- **Tailwind CSS**
+- **JSON Server**
+- **HTML5**
+- **CSS3**
 
-## Learn More
+## ⚙️ Getting Started
 
-To learn more about Next.js, take a look at the following resources:
+### 1-clone the repository
+### 2-install dependencies
+### 3-start json-server : npx json-server db.json
+### 4-start the Next.js development server : npm run dev
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
